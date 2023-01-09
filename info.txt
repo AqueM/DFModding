@@ -1,0 +1,13 @@
+[ID:Sensible decor]
+[NUMERIC_VERSION:1]
+[DISPLAYED_VERSION:1.0.0]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.0.0]
+[AUTHOR:Aque]
+[NAME:Sensible decor]
+[DESCRIPTION:A cool mod I made!]
+
+[STEAM_TITLE:Sensible decor options]
+[STEAM_DESCRIPTION: Adds new reactions (recipes) with a more sensible approach to decorating items.]
+[STEAM_TAG:mod]
+[STEAM_TAG:qol]
